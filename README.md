@@ -11,7 +11,7 @@ class Developer:
     def __init__(self):
         self.name = "amaskedtitan"
         self.role = "Code Ninja 🥷"
-        self.loves = ["Gaming 🎮", "Coding 💻", "<3 Girl"]
+        self.loves = ["Gaming 🎮", "Coding 💻", "<3 "]
         self.status = "Debugging life, one line at a time"
 ```
 
